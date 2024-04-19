@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="estilo.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conversor Real/Dólar</title>
+    <title>Conversor &#128178;</title>
 </head>
 <body>
     <div>
@@ -24,7 +24,7 @@
         };
         
         ?>
-        <a href="index.html"><button>Voltar</button></a>
+        <a href="index.html"><button>Voltar&#128178;</button></a>
     </div>
 </body>
 </html>

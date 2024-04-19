@@ -31,7 +31,7 @@
         };
         
         ?>
-        <a href="index.html"><button>Voltar</button></a>
+        <a href="index.html"><button>Voltar&#128221;</button></a>
     </div>
 </body>
 </html>
