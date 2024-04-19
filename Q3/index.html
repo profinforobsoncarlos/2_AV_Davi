@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="estilo.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Média</title>
+</head>
+<body>
+    <div>
+        <h1>Informe os dados para o calculo de sua média e ver sua situação:</h1>
+        <form action="executor.php" method="get">
+        <label for="nome"><h3>Informe seu nome completo:</h3></label><br/>
+        <input type="text" name="nome" placeholder="Seu nome" id="nome" required/>
+        <form action="executor.php" method="get">
+        <label for="n1"><h3>Informe sua primeira nota:</h3></label><br/>
+        <input type="number" name="n1" placeholder="Nota da Av.1" id="n1" step="0.01" required>
+        <form action="executor.php" method="get">
+        <label for="n2"><h3>Informe sua segunda nota:</h3></label><br/>
+        <input type="number" name="n2" placeholder="Nota da Av.2" id="n2" step="0.01" required>
+        <form action="executor.php" method="get">
+        <label for="n2"><h3>Informe sua terceira nota:</h3></label><br/>
+        <input type="number" name="n3" placeholder="Nota da Av.3" id="n3" step="0.01" required>
+        <form action="executor.php" method="get">
+        <label for="n3"><h3>Informe sua quarta nota:</h3></label><br/>
+        <input type="number" name="n4" placeholder="Nota da Av.4" id="n4" step="0.01" required>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <input type="submit" value="Calcular a média"/>
+    </form>
+    </div>
+</body>
+</html>

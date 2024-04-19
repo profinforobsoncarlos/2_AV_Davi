@@ -1,15 +1,15 @@
 body {
-    background: url("istockphoto-502911292-2048x2048-transformed.jpeg") no-repeat top center fixed;
+    background: url("v4-728px-Calculate-GPA-Step-2.jpg.png") no-repeat top center fixed;
     background-size: cover;
 }
 
 div::before {
-    content: "ברוך הבא חבר";
+    content: " ברוך הבא חבר";
     text-align: center;
     font: 20pt Arial;
     font-weight: bold;
     color: #ffffff;
-    background-color:#365942;
+    background-color:#e70303;
     padding: 5px;
     display:block;
     position: relative;
@@ -19,7 +19,7 @@ div::before {
 }
 
 div {
-    background-color: #ecf5b8 ;
+    background-color: #ffffff ;
     margin: 100px auto 100px auto;
     padding: 10px;
     width: 550px;
@@ -43,25 +43,25 @@ span.foco {
     color: #7e050c;
 }
 h1{
-    color: rgb(5, 104, 54);
+    color: rgb(104, 8, 5);
     text-align: center;
     font: 20pt arial bold;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: rgb(159, 192, 11);
+    -webkit-text-stroke-color: rgb(104, 8, 5);
 }
 h2{
-    color: rgb(3, 88, 46);
+    color: rgb(104, 8, 5);
     text-align: center;
     font: 17pt Times bold;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: rgb(0, 0, 0);
 }
 h3{
-    color: rgb(5, 104, 54);
+    color: rgb(104, 8, 5);
     text-align: left;
     font: 15pt arial ;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: rgb(159, 192, 11);
+    -webkit-text-stroke-color: rgb(247, 14, 14);
 }
 
 p{
@@ -84,7 +84,7 @@ input{
 }
 
 button{
-    color: #1c522f;
+    color: #ff0000;
     margin-left: 500px;
     padding: 5px;
     font-size: 10px;

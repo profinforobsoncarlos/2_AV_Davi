@@ -1,5 +1,5 @@
 body {
-    background: url("istockphoto-502911292-2048x2048-transformed.jpeg") no-repeat top center fixed;
+    background: url("4.png") no-repeat top center fixed;
     background-size: cover;
 }
 
@@ -9,7 +9,7 @@ div::before {
     font: 20pt Arial;
     font-weight: bold;
     color: #ffffff;
-    background-color:#365942;
+    background-color:#1da1c9;
     padding: 5px;
     display:block;
     position: relative;
@@ -19,7 +19,7 @@ div::before {
 }
 
 div {
-    background-color: #ecf5b8 ;
+    background-color: #b8f1f5 ;
     margin: 100px auto 100px auto;
     padding: 10px;
     width: 550px;
@@ -50,11 +50,11 @@ h1{
     -webkit-text-stroke-color: rgb(159, 192, 11);
 }
 h2{
-    color: rgb(3, 88, 46);
+    color: rgb(255, 153, 1);
     text-align: center;
     font: 17pt Times bold;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(22, 5, 82);
 }
 h3{
     color: rgb(5, 104, 54);
