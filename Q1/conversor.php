@@ -18,7 +18,7 @@
         echo "<h2>Você informou R$ $e1. <br/>Esse valor em Dólar é UU$ $e2.<br/>
         Cotação de hoje é R$  $e3.</h2>";
         $espaço = 0;
-        while ($espaço <= 10) {
+        while ($espaço <= 10) {/*Você criou um comando de repetição para um <br>? rsrsrs*/
            echo"<br/>";
            $espaço ++;
         };
